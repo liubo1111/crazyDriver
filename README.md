@@ -1,6 +1,8 @@
 # crazyDriver
 A prototype to express the mood while driving. You can say 'Thanks', 'Sorry' and 'Go to hell' to other drivers by pressing the button once, twice, and three times respectively. 
 
+link: https://www.youtube.com/watch?v=VzxIeXioL0k
+
 List of materials
 
 1. Arduino Uno
@@ -20,8 +22,12 @@ Circuit diagram
 Collections
 
 OUTPUT.circluit  -> 7.Arduion
+
 GND.LCD1602 -> GND.Arduion
+
 VCC.LCD1602 -> 5V.Arduion
+
 SDA.LCD1602 -> A4.Arduion
+
 SCL.LCD1602 -> A5.Arduion
        
